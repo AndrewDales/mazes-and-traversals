@@ -10,3 +10,10 @@ Right, so the idea here was
 - to interpret the maze as a Graph in the obvious way (can't remember whether I pruned it)
 - to allow user to select start and finish points
 - to implement all the standard traversals
+
+# The traversals
+
+## Breadth First
+
+## Depth First
+
