@@ -11,9 +11,18 @@ Right, so the idea here was
 - to allow user to select start and finish points
 - to implement all the standard traversals
 
-# The traversals
+Let's take a look
+
+# The traversals
 
 ## Breadth First
 
+I guess we always start here
+
 ## Depth First
 
+The classic
+
+## Dijkstra
+
+This is identical to Breadth-First in this context. Presumably I could prune and then weight the edges.
